@@ -1,6 +1,6 @@
 # Clustering - Salaries & Age
 
-In clustering, the objective is to ensure that the variations within a cluster is minimized, while the variations between the clusters is maximised.
+## **In clustering, the objective is to ensure that the variations within a cluster is minimized, while the variations between the clusters is maximised.**
 
 Under this repo, I have worked on a clustering problem using KMeans clustering algorithm.
 
