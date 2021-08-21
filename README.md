@@ -30,3 +30,8 @@ The dataset consists of 5 columns:
 
 Business Problem: 
 A company would like to enter the Beer market with a new beer brand. Before, it decides the kind of beer it will launch, it must understand what kind of products are already available in the market and what kind of segments the products address.
+
+### Found the Number of clusters via the Elbow curve method:
+**Elbow Curve method considers the percentage of variation explained as a function of the number of clusters.**
+
+![](https://github.com/Lokeshrathi/Clustering_algorithm_solution/blob/main/elbow%20method.PNG)
