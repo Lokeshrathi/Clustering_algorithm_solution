@@ -35,3 +35,18 @@ A company would like to enter the Beer market with a new beer brand. Before, it 
 **Elbow Curve method considers the percentage of variation explained as a function of the number of clusters.**
 
 ![](https://github.com/Lokeshrathi/Clustering_algorithm_solution/blob/main/elbow%20method.PNG)
+
+## Clustering Project -3
+
+## Creating Customer Segmentation using Clustering(KMeans)
+
+The dataset consists of 5 columns:
+1. Customer_id
+2. Gender
+3. Age
+4. Annual Income 
+5. Spends
+
+Business Problem: 
+You own the mall and want to understand the customers like who can be easily converge [Target Customers] so that the sense can be given to marketing team and plan the strategy accordingly.
+
